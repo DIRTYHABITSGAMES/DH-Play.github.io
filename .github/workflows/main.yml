@@ -1,0 +1,14 @@
+            - name: Casino Cloudflare Web3 Gateway
+  # You may pin to the exact commit or the version.
+  # uses: abhimarshal1/cloudflare-web3-gateway@7d17e847a1af6efa9d93c37a0c4cd1d41b886fdd
+  uses: abhimarshal1/cloudflare-web3-gateway@v1.4
+  with:
+    # Cloudflare API token
+    token: AMNmF7hf1rr1oGKBqA6A-P69TvmUnF2CYB0M5bV6
+    # 
+    zone: # default is Cloudflare zone
+    # Cloudflare hostname to be updated
+    hostname: 
+    # ipfs/ipns path
+    dnslink: 
+          
